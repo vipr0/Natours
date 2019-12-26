@@ -1,0 +1,23 @@
+{
+  "name": "natours",
+  "version": "0.0.1",
+  "description": "A sample landing page built on pure HTML and CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vipr0/Natours.git"
+  },
+  "author": "Vitalii Protsyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vipr0/Natours/issues"
+  },
+  "homepage": "https://github.com/vipr0/Natours#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
