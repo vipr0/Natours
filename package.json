@@ -4,7 +4,7 @@
   "description": "A sample landing page built on pure HTML and CSS",
   "main": "index.js",
   "scripts": {
-    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+    "compile:sass": "node-sass sass/main.scss css/style.css --watch ./sass/"
   },
   "repository": {
     "type": "git",
